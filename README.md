@@ -3,4 +3,4 @@
 
 I have saved it here as both a `.atext` file and a `.csv`.
 
-Thanks to (http://www.emoji-cheat-sheet.com/)[http://www.emoji-cheat-sheet.com/] for all of the keyword bindings to emoji.
+Thanks to [http://www.emoji-cheat-sheet.com/](http://www.emoji-cheat-sheet.com/) for all of the keyword bindings to emoji.
